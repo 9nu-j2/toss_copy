@@ -1,8 +1,8 @@
 import React from "react";
 import HomePresenter from "./HomePresenter";
 
-const HomeContainer = ({ navigation }) => {
-  return <HomePresenter {...{ navigation }} />;
+const HomeContainer = () => {
+  return <HomePresenter />;
 };
 
 export default HomeContainer;
