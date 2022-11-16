@@ -50,16 +50,16 @@ const Nav = () => {
     <Container>
       <NavCon>
         <InnerCon>
-          <IconBox>toss</IconBox>
+          <IconBox>Icon</IconBox>
           <Menu>
             <Item>
               <a>브랜드 스토리</a>
             </Item>
             <Item>
-              <a>토스의 도전</a>
+              <a>도전</a>
             </Item>
             <Item>
-              <a>응원카드 만들기</a>
+              <a>응원카드</a>
             </Item>
             <Item>
               <button>공유하기</button>
